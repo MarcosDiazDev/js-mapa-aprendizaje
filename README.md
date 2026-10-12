@@ -5,18 +5,18 @@ siguiendo un programa de 6 fases con Mentor JS.
 
 ## Progreso
 
-| #   | Lección                  | Estado | Carpeta                                    |
-| --- | ------------------------ | ------ | ------------------------------------------ |
-| 00  | Setup del entorno        | ✅     | [00-setup-entorno](./00-setup-entorno)     |
-| 01  | Variables y tipos        | ✅     | [01-variables-tipos](./01-variables-tipos) |
-| 02  | Operadores y coerción    | 🔲     | —                                          |
-| 03  | Condicionales            | 🔲     | —                                          |
-| 04  | Loops                    | 🔲     | —                                          |
-| 05  | Funciones                | 🔲     | —                                          |
-| 06  | Arrays y métodos         | 🔲     | —                                          |
-| 07  | Objetos                  | 🔲     | —                                          |
-| 08  | Scope y hoisting         | 🔲     | —                                          |
-| 09  | Manejo de errores básico | 🔲     | —                                          |
+| #   | Lección                  | Estado | Carpeta                                            |
+| --- | ------------------------ | ------ | -------------------------------------------------- |
+| 00  | Setup del entorno        | ✅     | [00-setup-entorno](./00-setup-entorno)             |
+| 01  | Variables y tipos        | ✅     | [01-variables-tipos](./01-variables-tipos)         |
+| 02  | Operadores y coerción    | ✅     | [02-operadores-coercion](./02-operadores-coercion) |
+| 03  | Condicionales            | 🔲     | —                                                  |
+| 04  | Loops                    | 🔲     | —                                                  |
+| 05  | Funciones                | 🔲     | —                                                  |
+| 06  | Arrays y métodos         | 🔲     | —                                                  |
+| 07  | Objetos                  | 🔲     | —                                                  |
+| 08  | Scope y hoisting         | 🔲     | —                                                  |
+| 09  | Manejo de errores básico | 🔲     | —                                                  |
 
 ## Fases
 
