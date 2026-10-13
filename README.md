@@ -10,7 +10,7 @@ siguiendo un programa de 6 fases con Mentor JS.
 | 00  | Setup del entorno        | ✅     | [00-setup-entorno](./00-setup-entorno)             |
 | 01  | Variables y tipos        | ✅     | [01-variables-tipos](./01-variables-tipos)         |
 | 02  | Operadores y coerción    | ✅     | [02-operadores-coercion](./02-operadores-coercion) |
-| 03  | Condicionales            | 🔲     | —                                                  |
+| 03  | Condicionales            | ✅     | [03-condicionales](./03-condicionales)             |
 | 04  | Loops                    | 🔲     | —                                                  |
 | 05  | Funciones                | 🔲     | —                                                  |
 | 06  | Arrays y métodos         | 🔲     | —                                                  |
